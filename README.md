@@ -1,2 +1,0 @@
-# ssmtp
-ssmtp mail lib
